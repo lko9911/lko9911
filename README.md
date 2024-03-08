@@ -23,12 +23,12 @@ The link below is to the site I run!
 https://whitecode2718.tistory.com/ <br>
 https://dbcode.tistory.com/
 
-E-mail address
+### E-mail address
 
 school : lko9911@kangwon.ac.kr <br>
 google : lko991111@gmail.com
 
-kaggle
+### kaggle
 
 https://www.kaggle.com/lko9911
 
