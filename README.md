@@ -25,7 +25,7 @@ https://dbcode.tistory.com/
 
 E-mail address
 
-school : lko9911@kangwon.ac.kr
+school : lko9911@kangwon.ac.kr <br>
 google : lko991111@gmail.com
 
 kaggle
