@@ -20,4 +20,14 @@ Here are some ideas to get you started:
 
 The link below is to the site I run!
 
-<a href="https://www.kaggle.com/lko9911">
+https://whitecode2718.tistory.com/
+https://dbcode.tistory.com/
+
+E-mail address
+
+school : lko9911@kangwon.ac.kr
+google : lko991111@gmail.com
+
+kaggle
+
+https://www.kaggle.com/lko9911
