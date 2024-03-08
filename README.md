@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 The link below is to the site I run!
 
-https://whitecode2718.tistory.com/
+https://whitecode2718.tistory.com/ <br>
 https://dbcode.tistory.com/
 
 E-mail address
