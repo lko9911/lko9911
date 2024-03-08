@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 ### Hi,
 🌱 I’m DS student. 
 
-The link below is to the site I run!
+😄 The link below is to the site I run!
+
+### Tistory
 
 https://whitecode2718.tistory.com/ <br>
 https://dbcode.tistory.com/
