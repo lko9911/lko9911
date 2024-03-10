@@ -34,7 +34,7 @@ For research purposes : https://dbcode.tistory.com/
 ## ⚡ SKILL
 ### Languages 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++/C](https://img.shields.io/badge/C/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 <br>
 ### Tools
 ![visualstudio](https://img.shields.io/badge/visualstudio-2C2255.svg?&style=for-the-badge&logo=visualstudio&logoColor=white)
