@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ### Hi,
 ### 🌱 I’m DS student. 
-
 <br>
 
 ## 😄 The link below is to the site I run!
@@ -27,32 +26,30 @@ Here are some ideas to get you started:
 https://whitecode2718.tistory.com/ <br>
 https://dbcode.tistory.com/
 
-### E-mail address
-
-School : lko9911@kangwon.ac.kr <br>
-Google : lko991111@gmail.com
-
 ### kaggle
 
 📫 https://www.kaggle.com/lko9911
-
-<br>
+<br><br>
 
 ## ⚡ SKILL
-### Languages & Tools 
+### Languages 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
-<br><br>
+<br>
+### Tools
 ![visualstudio](https://img.shields.io/badge/visualstudio-2C2255.svg?&style=for-the-badge&logo=visualstudio&logoColor=white)
 ![anaconda](https://img.shields.io/badge/anaconda-44A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+<br><br>
+## 🏠 E-mail address
 
+School : lko9911@kangwon.ac.kr <br>
+Google : lko991111@gmail.com
+<br><br>
 ##
 <br>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flko9911&count_bg=%23AF4CD1&title_bg=%23B56FCD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lko9911&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lko9911)](https://solved.ac/lko9911/)
-
-
 
 
