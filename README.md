@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 ### Tistory
 
-https://whitecode2718.tistory.com/ <br>
-https://dbcode.tistory.com/
+For study purposes : https://whitecode2718.tistory.com/ <br>
+For research purposes : https://dbcode.tistory.com/
 
 ### kaggle
 
