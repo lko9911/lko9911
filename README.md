@@ -34,11 +34,13 @@ For research purposes : https://dbcode.tistory.com/
 ## ⚡ SKILL
 ### Languages 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![C++/C](https://img.shields.io/badge/C/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++/C](https://img.shields.io/badge/C/C++-512BD4.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-00599C.svg?&style=for-the-badge&logo=&logoColor=white)
 <br>
 ### Tools
 ![visualstudio](https://img.shields.io/badge/visualstudio-2C2255.svg?&style=for-the-badge&logo=visualstudio&logoColor=white)
 ![anaconda](https://img.shields.io/badge/anaconda-44A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![R](https://img.shields.io/badge/R_Studio-00599C.svg?&style=for-the-badge&logo=&logoColor=white)
 <br><br>
 ## 🏠 E-mail address
 
