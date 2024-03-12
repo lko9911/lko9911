@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi,
-### 🌱 I’m DS student. 
+### 🌱 I’m DataScience student. 
 <br>
 
 ## 😄 The link below is to the site I run!
