@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 
 ### Tistory
 
-For study purposes : https://whitecode2718.tistory.com/ <br>
-For research purposes : https://dbcode.tistory.com/
+👯 For study purposes : https://whitecode2718.tistory.com/ <br>
+🤔 For research purposes : https://dbcode.tistory.com/
 
 ### kaggle
 
-📫 https://www.kaggle.com/lko9911
+📫 For kaggle : https://www.kaggle.com/lko9911
 <br><br>
 
 ## ⚡ SKILL
