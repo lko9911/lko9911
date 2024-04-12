@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## 😄 The link below is to the site I run!
 
-### Tistory (I'm busy, so I'm going to suspend the operation of T-Story.)
+### Tistory (I'm busy, so I'm going to suspend the operation of Tistory.)
 
  For study purposes : https://whitecode2718.tistory.com/ <br>
  For research purposes : https://dbcode.tistory.com/
