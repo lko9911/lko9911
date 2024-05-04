@@ -14,12 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Hi,
 ### 🌱  I’m Data Science student. 
 <br>
-
-## 😄 The link below is to the site I run!
 
 ### Tistory (I'm busy, so I'm going to suspend the operation of Tistory.)
 
@@ -45,7 +41,7 @@ Here are some ideas to get you started:
 ## 🏠 E-mail address
 
 School : lko9911@kangwon.ac.kr <br>
-Google : lko991111@gmail.com
+
 <br><br>
 ##
 <br>
