@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 ### Tistory (I'm busy, so I'm going to suspend the operation of Tistory.)
 
- For study purposes : https://whitecode2718.tistory.com/ <br>
  For research purposes : https://dbcode.tistory.com/
 
 ### kaggle
