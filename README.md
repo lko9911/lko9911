@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 ### 🌱  I’m Data Science student. 
 <br>
 
-### Tistory (I'm busy, so I'm going to suspend the operation of Tistory.)
-
- For research purposes : https://dbcode.tistory.com/
-
 ### kaggle
 
  For kaggle : https://www.kaggle.com/lko9911
