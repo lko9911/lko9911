@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
  For kaggle : https://www.kaggle.com/lko9911
 
-![스크린샷 2024-12-22 103806](https://github.com/user-attachments/assets/a82550cb-b11c-4e00-af34-2b4283507264)
-
 <br><br>
 
 ## ⚡ SKILL
