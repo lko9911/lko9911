@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🌱  I’m Data Science student. 
-### Interest : Robot Vision, AI robot
-### Study Object : ROS, ComputerVision, Deep Learning (Image Process)
+### 🌱  I’m Data Science student. <br><br>
+#### Interest : Robot Vision, AI robot
+#### Study Object : ROS, ComputerVision, Deep Learning (Image Process), HTML, C#
 <br>
 
 ### kaggle
