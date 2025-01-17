@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🌱  I’m Data Science student. 
-### Interest : Robot Vision
+### Interest : Robot Vision, AI robot
+### Study Object : ROS, ComputerVision, Deep Learning (Image Process)
 <br>
 
 ### kaggle
