@@ -33,9 +33,12 @@ Here are some ideas to get you started:
 <br>
 ### Tools
 ![visualstudio](https://img.shields.io/badge/visualstudio-2C2255.svg?&style=for-the-badge&logo=visualstudio&logoColor=white)
+![COLAB](https://img.shields.io/badge/Google_Colab-F9AB00?style=plastic&logo=google-colab&logoColor=white)
 ![anaconda](https://img.shields.io/badge/anaconda-44A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![R](https://img.shields.io/badge/R_Studio-00599C.svg?&style=for-the-badge&logo=&logoColor=white)
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
+
+
+
 <br><br>
 ## 🏠 E-mail address
 
@@ -45,7 +48,6 @@ School : lko9911@kangwon.ac.kr <br>
 ##
 <br>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flko9911&count_bg=%23AF4CD1&title_bg=%23B56FCD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lko9911&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lko9911)](https://solved.ac/lko9911/)
 
