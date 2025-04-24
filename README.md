@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <br>
 ### Tools
 ![visualstudio](https://img.shields.io/badge/visualstudio-2C2255.svg?&style=for-the-badge&logo=visualstudio&logoColor=white)
-![COLAB](https://img.shields.io/badge/Google_Colab-F9AB00?style=plastic&logo=google-colab&logoColor=white)
+![COLAB](https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![anaconda](https://img.shields.io/badge/anaconda-44A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![R](https://img.shields.io/badge/R_Studio-00599C.svg?&style=for-the-badge&logo=&logoColor=white)
 
