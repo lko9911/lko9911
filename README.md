@@ -37,14 +37,10 @@ Here are some ideas to get you started:
 ![anaconda](https://img.shields.io/badge/anaconda-44A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![R](https://img.shields.io/badge/R_Studio-00599C.svg?&style=for-the-badge&logo=&logoColor=white)
 
-
-
 <br><br>
 ## 🏠 E-mail address
-
 School : lko9911@kangwon.ac.kr <br>
-
-<br><br>
+Google : lko991111@gmail.com <br><br>
 ##
 <br>
 
