@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🌱  I’m Data Science student. <br><br>
+### 🌱  I’m Mechanical Data Science student. <br><br>
 
 #### Study Object : ROS, ComputerVision, Deep Learning (Image Process), HTML, C#, Mechanical Design
 <br>
