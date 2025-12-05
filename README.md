@@ -19,6 +19,13 @@ Here are some ideas to get you started:
 #### Study Object : ROS, ComputerVision, Deep Learning (Image Process), HTML, C#, Mechanical Design
 <br>
 
+### Education
+Kangwon National University — Mechatronics Engineering & Data Science (2020–2025)<br>
+Seoul National University — Mechanical Engineering (2025– )<br>
+Undergraduate Intern, Advanced Manufacturing and Programmable Matter Laboratory (Prospective Graduate Student)<br>
+
+For Lab : https://3dprinting.snu.ac.kr/<br><br>
+
 ### kaggle
 
  For kaggle : https://www.kaggle.com/lko9911
