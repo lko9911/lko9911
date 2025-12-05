@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <br>
 
 ### Education
-Kangwon National University — Mechatronics Engineering & Data Science (2020–2025)<br>
-Seoul National University — Mechanical Engineering (2025– )<br>
-Undergraduate Intern, Advanced Manufacturing and Programmable Matter Laboratory (Prospective Graduate Student)<br>
+- Kangwon National University — Mechatronics Engineering & Data Science (2020–2025)<br>
+- Seoul National University — Mechanical Engineering (2025– )<br>
+- Undergraduate Intern, Advanced Manufacturing and Programmable Matter Laboratory (Prospective Graduate Student)<br>
 
 For Lab : https://3dprinting.snu.ac.kr/<br><br>
 
