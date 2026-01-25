@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 ### 🌱  I’m Mechanical Data Science student. <br>
 ---
 #### Study Object : ROS, ComputerVision, Deep Learning (Image Process), HTML, C#, Mechanical Design
-<br>
 
 ### Education
 - Kangwon National University — Mechatronics Engineering & Data Science (2020 ~ 2025)<br>
@@ -29,8 +28,6 @@ For Lab : https://3dprinting.snu.ac.kr/<br><br>
 ### kaggle
 
  For kaggle : https://www.kaggle.com/lko9911
-
-<br>
 
 ---
 
@@ -54,13 +51,11 @@ For Lab : https://3dprinting.snu.ac.kr/<br><br>
 
 ---
 
-
 ## 🏠 E-mail address
 School(Past) : lko9911@kangwon.ac.kr <br>
 School(Current) : lko9911@snu.ac.kr <br>
 Google : lko991111@gmail.com <br><br>
 ##
-<br>
 
 ---
 ## ⚡ Code Rank !!
