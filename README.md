@@ -57,7 +57,7 @@ For Lab : https://3dprinting.snu.ac.kr/<br><br>
 
 ## 🏠 E-mail address
 School(Past) : lko9911@kangwon.ac.kr <br>
-School(Current) : lko0011@snu.ac.kr <br>
+School(Current) : lko9911@snu.ac.kr <br>
 Google : lko991111@gmail.com <br><br>
 ##
 <br>
