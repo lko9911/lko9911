@@ -38,17 +38,22 @@ For Lab : https://3dprinting.snu.ac.kr/<br><br>
 ### Languages 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![C++/C](https://img.shields.io/badge/C/C++-512BD4.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-00599C.svg?&style=for-the-badge&logo=&logoColor=white)
+![R](https://img.shields.io/badge/R%20Studio-blue?style=for-the-badge&logo=R)
+![GIT](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
 <br>
-### Tools
+### Developer Tools
 ![visualstudio](https://img.shields.io/badge/visualstudio-2C2255.svg?&style=for-the-badge&logo=visualstudio&logoColor=white)
 ![COLAB](https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![anaconda](https://img.shields.io/badge/anaconda-44A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![R](https://img.shields.io/badge/R_Studio-00599C.svg?&style=for-the-badge&logo=&logoColor=white)
 
+### AI Tools
+![gemini](https://img.shields.io/badge/Gemini%20-%20skyblue?style=for-the-badge&logo=googlegemini)
+![Coilpit](https://img.shields.io/badge/Copilot%20-%20gray?style=for-the-badge&logo=githubcopilot)
 <br>
 
 ---
+
 
 ## 🏠 E-mail address
 School(Past) : lko9911@kangwon.ac.kr <br>
