@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🌱  I’m Mechanical Data Science student. <br><br>
-
+### 🌱  I’m Mechanical Data Science student. <br>
+---
 #### Study Object : ROS, ComputerVision, Deep Learning (Image Process), HTML, C#, Mechanical Design
 <br>
 
@@ -30,7 +30,9 @@ For Lab : https://3dprinting.snu.ac.kr/<br><br>
 
  For kaggle : https://www.kaggle.com/lko9911
 
-<br><br>
+<br>
+
+---
 
 ## ⚡ SKILL
 ### Languages 
@@ -44,13 +46,19 @@ For Lab : https://3dprinting.snu.ac.kr/<br><br>
 ![anaconda](https://img.shields.io/badge/anaconda-44A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![R](https://img.shields.io/badge/R_Studio-00599C.svg?&style=for-the-badge&logo=&logoColor=white)
 
-<br><br>
+<br>
+
+---
+
 ## 🏠 E-mail address
-School : lko9911@kangwon.ac.kr <br>
+School(Past) : lko9911@kangwon.ac.kr <br>
+School(Current) : lko0011@snu.ac.kr
 Google : lko991111@gmail.com <br><br>
 ##
 <br>
 
+---
+## ⚡ Code Rank !!
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lko9911)](https://solved.ac/lko9911/)
 
 
