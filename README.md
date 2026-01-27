@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 ![Video Project 1 (1)](https://github.com/user-attachments/assets/7d912561-9052-4123-8cb6-abd87c9f57de)
 
 
-
 #### Study Object : ROS, ComputerVision, Deep Learning (Image Process), HTML, C#, Mechanical Design
 
 ### Education
@@ -32,6 +31,8 @@ For Lab : https://3dprinting.snu.ac.kr/<br><br>
 ### kaggle
 
  For kaggle : https://www.kaggle.com/lko9911
+
+![giphy](https://github.com/user-attachments/assets/18b524cd-7894-4df1-96a3-fb63ccce5412)
 
 ---
 
