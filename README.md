@@ -40,14 +40,14 @@ For Lab : https://3dprinting.snu.ac.kr/<br><br>
 ### Languages 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![C++/C](https://img.shields.io/badge/C/C++-512BD4.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R%20Studio-blue?style=for-the-badge&logo=R)
+![R](https://img.shields.io/badge/R%20-blue?style=for-the-badge&logo=R)
 ![GIT](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
 <br>
 ### Developer Tools
 ![visualstudio](https://img.shields.io/badge/visualstudio-2C2255.svg?&style=for-the-badge&logo=visualstudio&logoColor=white)
 ![COLAB](https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![anaconda](https://img.shields.io/badge/anaconda-44A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
-![R](https://img.shields.io/badge/R_Studio-00599C.svg?&style=for-the-badge&logo=&logoColor=white)
+![R](https://img.shields.io/badge/R%20Studio-blue?style=for-the-badge&logo=R)
 
 ### AI Tools
 ![gemini](https://img.shields.io/badge/Gemini%20-%20skyblue?style=for-the-badge&logo=googlegemini)
