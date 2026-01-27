@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 ### 🌱  I’m Mechanical Data Science student. <br>
 ---
+![Video Project 1 (1)](https://github.com/user-attachments/assets/ae17469c-5c9b-43dd-b008-c4bf3c7fb954)
+
+
 #### Study Object : ROS, ComputerVision, Deep Learning (Image Process), HTML, C#, Mechanical Design
 
 ### Education
