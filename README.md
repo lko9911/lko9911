@@ -32,7 +32,8 @@ For Lab : https://3dprinting.snu.ac.kr/<br><br>
 
  For kaggle : https://www.kaggle.com/lko9911
 
-![giphy](https://github.com/user-attachments/assets/18b524cd-7894-4df1-96a3-fb63ccce5412)
+![giphy](https://github.com/user-attachments/assets/6079753d-b257-46dd-a12d-73c0946401c4)
+
 
 ---
 
