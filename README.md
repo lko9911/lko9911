@@ -66,5 +66,3 @@ Google : lko991111@gmail.com <br><br>
 ---
 ## ⚡ Code Rank !!
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lko9911)](https://solved.ac/lko9911/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lko9911&layout=donut-vertical)](https://github.com/lko9911/github-readme-stats)
