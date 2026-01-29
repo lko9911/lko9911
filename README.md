@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Lee%20Gyuwon's%20GITHUB&fontsize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Lee%20Gyuwon's%20GITHUB&fontsize=50&animation=twinkling&fontAlign=50&fontAlignY=36)
 ### 🌱  I’m Mechanical Data Science student. <br>
 ---
 ![Video Project 1 (1)](https://github.com/user-attachments/assets/7d912561-9052-4123-8cb6-abd87c9f57de)
-
 
 #### Study Object : ComputerVision, Deep Learning (Inverse Design), C#, Mechanical Design, 3D/4D printing
 
