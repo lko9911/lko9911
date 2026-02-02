@@ -65,6 +65,7 @@ Google : lko991111@gmail.com <br><br>
 
 ---
 ## ⚡ Code Rank & GitHub stats !!
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lko9911)](https://solved.ac/lko9911/)<br><br>![lko9911's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lko9911&show_icons=true&theme=transparen&bg_color=00000000)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lko9911)](https://solved.ac/lko9911/)<br><br>
+![lko9911's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lko9911&show_icons=true&theme=transparen&bg_color=00000000)
 
 
