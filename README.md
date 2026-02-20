@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ---
 ![Video Project 1 (1)](https://github.com/user-attachments/assets/7d912561-9052-4123-8cb6-abd87c9f57de)
 
-#### Study Object : ComputerVision, Deep Learning (Inverse Design), C#, Mechanical Design, 3D/4D printing
+#### Study Object : ComputerVision, Deep Learning (Inverse Design), C#, Mechanical Design, 3D/4D printing, Startup service
 
 ### Education
 - Kangwon National University — Mechatronics Engineering & Data Science (2020 ~ 2025)<br>
